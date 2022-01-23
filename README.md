@@ -30,7 +30,6 @@
   <li> I’m currently working on Android Developement with Flutter. </li>
   <li> I love to solve Data Structure and Algorithm Problems with C++. </li>
   <li> I'm a Computer Science Engineering Student (Graduating in 2023). </li>
-  <li> My Favorite Graphic Designing Tool is Illustrator and Photoshop. </li>
   <li> I do VFX Editing (After Effects, Cinema 4d, Blender) in my Free Time. </li>
   <li> I made some Games in Unity3D Game Engine. </li>
 <ul>
