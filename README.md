@@ -105,17 +105,24 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+  ## Thank you for visting my profile
+  
+  ![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudep/count.svg)
+  
 ## Connect with Me:
-
-<p align = "center">
-
-[<img src ="https://img.shields.io/badge/linktree-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://linktr.ee/Jaiswal4sudeep)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/jaiswal4sudeep) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jaiswal4sudeep/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/jaiswal4sudeep)
-
+  
+  <p>
+<a href="https://github.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/jaiswal4sudeep/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://instagram.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:jaiswal4sudeep@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a>
 </p>
   
 <hr>
   <p>Made with &hearts; by <a href="https://github.com/jaiswal4sudeep" style="color:white">SuDeep Jaiswal</a><p>
   <p> Last Update: Jan 24, 2022 </p>
+
+
+  
+  
