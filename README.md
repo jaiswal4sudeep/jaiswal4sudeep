@@ -51,10 +51,8 @@
   
 <br/><br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 ## Favorite Tools
 
