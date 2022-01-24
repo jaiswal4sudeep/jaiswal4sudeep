@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  <img align="center" height="256px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg"> 
+  <img align="center" height="256px" src="https://user-images.githubusercontent.com/51513908/150759743-8cdbcae5-9d8c-4099-9353-7b025042f64c.svg"> 
   <br>
   <br>
   Hey There! This is Sudeep Jaiswal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -16,10 +16,10 @@
 <p align="center">
     
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jaiswal4sudeep"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=EA476C&labelColor=F85D7F&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jaiswal4sudeep"/>
   </a>
   <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jaiswal4sudeep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jaiswal4sudeep?color=FBD03E&labelColor=F8D866&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   
 </p>
@@ -112,16 +112,16 @@
 ## Connect with Me:
   
   <p>
-<a href="https://github.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/jaiswal4sudeep/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:jaiswal4sudeep@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://github.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-black?logo=github&style=round-square"/></a>
+<a href="https://www.linkedin.com/in/jaiswal4sudeep/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=round-square"></a>
+<a href="https://instagram.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=round-square"/></a>
+<a href="mailto:jaiswal4sudeep@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=round-square"/></a>
+<a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=round-square"/></a>
 </p>
   
 <hr>
-  <p>By <a href="https://github.com/jaiswal4sudeep" style="color:white">SuDeep Jaiswal</a><p>
-  <p> Last Update: Jan 24, 2022 </p>
+  <p>By <a href="https://github.com/jaiswal4sudeep">SuDeep Jaiswal</a><p>
+  <p>Last Update: Jan 24, 2022</p>
 
 
   
