@@ -120,7 +120,7 @@
 </p>
   
 <hr>
-  <p>Made with &hearts; by <a href="https://github.com/jaiswal4sudeep" style="color:white">SuDeep Jaiswal</a><p>
+  <p>By <a href="https://github.com/jaiswal4sudeep" style="color:white">SuDeep Jaiswal</a><p>
   <p> Last Update: Jan 24, 2022 </p>
 
 
