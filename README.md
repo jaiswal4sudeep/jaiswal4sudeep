@@ -13,16 +13,7 @@
 </p>
 
 
-<p align="center">
-    
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=EA476C&labelColor=F85D7F&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jaiswal4sudeep"/>
-  </a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jaiswal4sudeep?color=FDD12B&labelColor=F8D866&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  
-</p>
+
 
 
   ## About Me
@@ -122,7 +113,7 @@
   
 <hr>
   <p>By <a href="https://github.com/jaiswal4sudeep">SuDeep Jaiswal</a><p>
-  <p>Last Update: Jan 24, 2022</p>
+  <p>Last Update: Jan 29, 2022</p>
 
 
   
