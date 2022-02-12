@@ -77,7 +77,7 @@
 <a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=round-square"/></a>
 </p>
   
-<hr>
+
   
   <h2 align = "center">Show some ❤️ by ⭐ the Repositories!</h2>
   
