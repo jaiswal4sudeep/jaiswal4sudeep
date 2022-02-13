@@ -91,5 +91,5 @@
     <img src="https://img.shields.io/badge/-jaiswal4sudeep-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-  
-  <h2 align = "center">Show Some &hearts; by &star; some Repository! </h2>
+  <br/>
+  <p align = "center">Show Some &hearts; by &star; some Repository! </p>
