@@ -27,14 +27,14 @@
 
 
   
-  ## 📈 Contribution Streak
+  ## &#128200; Contribution Streak
 
   <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaiswal4sudeep's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal4sudeep&theme=monokai-metallian&hide_border=true"/>
   </p>
   
   
-  ## 📊 GitHub Statistics
+  ## &#128202; GitHub Statistics
   
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -75,7 +75,7 @@
 ![Adobe](https://img.shields.io/badge/-Adobe-05122A?style=flat&logo=adobe)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 
-  ## 🔗 Connect with me
+  ## &#128232; Connect with me
 
  <p align="center">
   <a href="https://linkedin.com/in/jaiswal4sudeep">
@@ -92,4 +92,4 @@
   </a>
 </p>
   <br/>
-  <p align = "center">Show Some &hearts; by &star; the Repositories! </p>
+  <p align = "center">Show Some &#128147; by &#11088; the Repositories! </p>
