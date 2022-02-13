@@ -92,4 +92,4 @@
   </a>
 </p>
   <br/>
-  <p align = "center">Show Some &hearts; by &star; some Repository! </p>
+  <p align = "center">Show Some &hearts; by &star; the Repositories! </p>
