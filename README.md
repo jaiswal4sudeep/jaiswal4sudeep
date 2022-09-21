@@ -96,4 +96,4 @@
   </a>
 </p>
   <br/>
-  <p align = "center">Show Some &#128147; by &#11088; the Repositories! </p>
+  <p align = "center">Show Some <img src="https://media.giphy.com/media/YondZW6AMjgTEHevF0/giphy.gif" width="20" height="20"> by &#11088; the Repositories! </p>
