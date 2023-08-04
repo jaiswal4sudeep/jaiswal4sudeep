@@ -18,12 +18,15 @@
 
   ## 🧑‍💻 About Me
 <ul>
-  <li> I’m currently working on Android Developement with Flutter. </li>
-  <li> I love to solve Data Structure and Algorithm Problems with C++. </li>
-  <li> I'm a Computer Science Engineering Student (Graduating in 2023). </li>
-  <li> I do VFX Editing (After Effects, Cinema 4D, Blender) in my Free Time. </li>
-  <li> I made some Games in Unity3D Game Engine. </li>
-<ul>
+  <li><b>Android Development with Flutter:</b> Proficient in Android app development using Flutter, creating modern and user-friendly mobile applications.</li>
+  <li><b>Data Structure and Algorithm Problem Solver:</b> Skilled in solving complex data structure and algorithm problems using C++, with a focus on efficient and optimized solutions.</li>
+  <li><b>Computer Science Engineering Graduate:</b> Recently graduated with a degree in Computer Science Engineering, equipped with a solid foundation in computer science principles.</li>
+  <li><b>VFX Editing Enthusiast:</b> Passionate about VFX editing and skilled in using After Effects, Cinema 4D, and Blender to create stunning visual effects.</li>
+  <li><b>Unity3D Game Development:</b> Experienced in developing games using the Unity3D game engine, with a creative approach to designing immersive gameplay experiences.</li>
+</ul>
+
+<p>With this diverse skill set and educational background, I'm excited to explore new opportunities and make meaningful contributions in the tech and creative industries. 🚀</p>
+
 
 
   
