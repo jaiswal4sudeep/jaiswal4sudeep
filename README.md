@@ -48,9 +48,8 @@
   
 <br/><br/>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+[![Sudeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 
 ## 🧠 Tech Stack
